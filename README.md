@@ -1,2 +1,2 @@
 # sahand255.github.io
-وبسایت شخصی سهند امینی
+print(2)
